@@ -4,7 +4,7 @@ class ProjectThree extends React.Component {
     render() {
         return (
             <div>
-                """.....HELLO Theen....."""
+                """.....HELLO ProjectThree....."""
             </div>
         );
     }
